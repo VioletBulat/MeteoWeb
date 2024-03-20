@@ -1,0 +1,12 @@
+.idea/
+*.iml
+*.iws
+*.class
+*.log
+*.tmp
+*.lock
+log/
+target/
+Thumbs.db
+.idea\workspase.xml
+application.properties
